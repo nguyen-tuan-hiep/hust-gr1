@@ -5,7 +5,7 @@ The dataset using in this project is available [here](https://www.kaggle.com/dat
 
 
 ## 0. Installation
-
+- Install [Anaconda](https://www.anaconda.com/products/distribution) (a popular open-source Python distribution platform)
 - Install libraries
 
 ```bash
@@ -17,13 +17,13 @@ The dataset using in this project is available [here](https://www.kaggle.com/dat
 ```
 
 ## 1. Data exploration
-- Plot to see and understand the dataset
+- Visualize the data distributions to understand the dataset
 - Plot the correlation and distributions between features
 ## 2. Data preprocessing
-- Data cleaning
-- Data scaling
-- Data encoding
-- Split dataset into training dataset and testing dataset
+- Data cleaning (handle missing/null/NaN values)
+- Data scaling (normalize/standardaize the data)
+- Data encoding (convert the categorical values into numeric values)
+- Data splitting (split dataset into training dataset and testing dataset)
 ## 3. Apply Machine Learning models on the dataset
 - Some Machine Learning models I use in this project:
   - Support Vector Machine Classifier
@@ -38,3 +38,7 @@ The dataset using in this project is available [here](https://www.kaggle.com/dat
 ## 4. Testing the models on created dataset
 - Create a new dataset
 - Apply the model to see the results
+## Authors
+
+- [nguyentuanhiep](https://www.github.com/nguyen-tuan-hiep)
+
